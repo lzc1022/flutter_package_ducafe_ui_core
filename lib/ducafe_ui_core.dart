@@ -21,7 +21,6 @@ part 'extensions/list_ext.dart';
 part 'extensions/text_ext.dart';
 part 'extensions/text_span_ext.dart';
 part 'extensions/widget_ext.dart';
-part 'extensions/screen_util_ext.dart';
 part 'extensions/context_ext.dart';
 part 'extensions/duration_ext.dart';
 part 'extensions/dev_tools_ext.dart';
