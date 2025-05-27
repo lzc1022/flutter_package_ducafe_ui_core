@@ -2,30 +2,7 @@ part of '../ducafe_ui_core.dart';
 
 /// 上下文扩展
 extension ContextExtensions on BuildContext {
-  /////////////////////////////////////////////////////////////////////
-  // ScreenUtil 屏幕尺寸信息
-  /////////////////////////////////////////////////////////////////////
-
-  /// 获取屏幕宽度
-  double get screenWidth => ScreenUtil().screenWidth;
-
-  /// 获取屏幕高度
-  double get screenHeight => ScreenUtil().screenHeight;
-
-  /// 获取底部导航栏高度
-  double get bottomBarHeight => ScreenUtil().bottomBarHeight;
-
-  /// 获取状态栏高度
-  double get statusBarHeight => ScreenUtil().statusBarHeight;
-
-  /// 获取文本缩放因子
-  // double get textScaleFactor => ScreenUtil().textScaleFactor;
-
-  /// 获取宽度的缩放因子
-  double get scaleWidth => ScreenUtil().scaleWidth;
-
-  /// 获取高度的缩放因子
-  double get scaleHeight => ScreenUtil().scaleHeight;
+ 
 
   /////////////////////////////////////////////////////////////////////
   // 屏幕方向
